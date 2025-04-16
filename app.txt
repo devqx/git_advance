@@ -2,4 +2,6 @@ This is the application default website page - environment is staging
 This is a fix to resolve the payment callback error
 This is a new change on the master branch
 This is a new change to be merged into master
+This is a new change to be merged into master
+This is another change
 
