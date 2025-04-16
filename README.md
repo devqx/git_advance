@@ -5,3 +5,4 @@
 ### Gip #1.0.3
 - Added files
 - Fixed login issues
+- Fixed payments issue
