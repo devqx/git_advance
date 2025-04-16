@@ -4,4 +4,5 @@ This is a new change on the master branch
 This is a new change to be merged into master
 This is a new change to be merged into master
 This is another change
+This is another change from staging
 
