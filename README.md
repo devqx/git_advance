@@ -9,3 +9,4 @@
 - Integrated Bludive Service API
 - Integrated GooglePay
 - Integrated ApplePay
+- Integrated Google Maps API
